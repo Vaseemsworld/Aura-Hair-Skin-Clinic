@@ -88,21 +88,21 @@ function BASlider({ before, after, beforeLabel = 'Before', afterLabel = 'After',
 const initialTransformations = [
   {
     id: 1,
-    before: '/images/hairtransform.jpg',
-    after: '/images/hairtransform.jpg',
+    before: '/images/after1.png',
+    after: '/images/before1.png',
     title: 'Hair Transplant - 6 Month Results',
   },
   {
     id: 2,
-    before: '/images/hairtransform.jpg',
-    after: '/images/hairtransform.jpg',
+    before: '/images/after2.png',
+    after: '/images/before2.png',
     title: 'FUE Hair Restoration',
   },
   {
     id: 3,
-    before: '/images/hairtransform.jpg',
-    after: '/images/hairtransform.jpg',
-    title: 'PRP + Hair Transplant Combo',
+    before: '/images/after3.png',
+    after: '/images/before3.png',
+    title: 'Skin Rejuvenation - 2 Month Progress',
   },
 ]
 
